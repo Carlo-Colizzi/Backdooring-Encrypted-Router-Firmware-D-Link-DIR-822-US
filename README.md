@@ -1,4 +1,4 @@
-# IoT Security: Backdooring Encrypted Router Firmware D-Link-DIR-822-US
+# Backdooring Encrypted Router Firmware D-Link-DIR-822-US
 
 ## Project Overview
 This project focuses on the security analysis and modification of the encrypted firmware of the **D-Link DIR-822-US** router. The main goal was to understand the firmware protection mechanisms, extract and decrypt the firmware, and assess the feasibility of injecting custom modifications for research purposes.
